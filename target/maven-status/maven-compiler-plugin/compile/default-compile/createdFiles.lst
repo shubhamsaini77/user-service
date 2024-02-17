@@ -1,0 +1,10 @@
+org/banking/user/UserController.class
+org/banking/common/WhiteRoseDBUtil.class
+org/banking/user/UserHelper.class
+org/banking/user/UserDataAccess.class
+org/banking/user/User.class
+org/banking/common/CommonResponse.class
+org/banking/CoreApplication.class
+org/banking/common/WhiteRoseObject.class
+org/banking/user/UserAddressDetails.class
+org/banking/common/WhiteRoseCommonObject.class
